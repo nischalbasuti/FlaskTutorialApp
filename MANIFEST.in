@@ -1,0 +1,3 @@
+graft foobar/templates
+graft foobar/static
+include foobar/schema.sql
